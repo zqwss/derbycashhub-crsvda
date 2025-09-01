@@ -4,7 +4,7 @@ defineOptions({ name: 'MyHome' })
 </script>
 
 <template>
-  <div>这是首页</div>
+  <div>这是首页11</div>
 </template>
 
 <style scoped>
